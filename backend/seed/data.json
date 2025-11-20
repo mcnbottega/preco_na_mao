@@ -1,0 +1,45 @@
+{
+  "cities": [
+    {
+      "id": "sao-joao",
+      "name": "S\u00e3o Jo\u00e3o",
+      "state": "PR"
+    }
+  ],
+  "stores": [
+    {
+      "id": "mercado-central",
+      "cityId": "sao-joao",
+      "name": "Mercado Central",
+      "address": "Rua Principal,123"
+    },
+    {
+      "id": "mercadinho-sao-jose",
+      "cityId": "sao-joao",
+      "name": "Mercadinho S\u00e3o Jos\u00e9",
+      "address": "Av Brasil,820"
+    }
+  ],
+  "products": [
+    {
+      "id": "arroz-5kg",
+      "name": "Arroz 5kg",
+      "category": "mercado"
+    },
+    {
+      "id": "oleo-900ml",
+      "name": "\u00d3leo 900ml",
+      "category": "mercado"
+    },
+    {
+      "id": "leite-1l",
+      "name": "Leite 1L",
+      "category": "mercado"
+    },
+    {
+      "id": "dipirona",
+      "name": "Dipirona 500mg",
+      "category": "farmacia"
+    }
+  ]
+}
